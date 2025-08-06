@@ -45,7 +45,7 @@ These limitations are intentional as the project’s focus was purely **static U
 
 ## 📸 Preview
 
-![Netflix Clone Preview]
+![Preview](./images/Screenshot202508-07024001.png)
 
 ---
 
