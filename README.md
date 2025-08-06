@@ -45,7 +45,10 @@ These limitations are intentional as the project’s focus was purely **static U
 
 ## 📸 Preview
 
-![Preview](./images/Screenshot202508-07024001.png)
+![Preview](.screenshot1.png)
+![Preview](.screenshot2.png)
+![Preview](.screenshot3.png)
+![Preview](.screenshot4.png)
 
 ---
 
