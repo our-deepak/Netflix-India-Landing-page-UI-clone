@@ -43,6 +43,9 @@ These limitations are intentional as the project’s focus was purely **static U
 ---
 ---
 
+## 🚀 Live Demo
+[[Click here to try the app](https://our-deepak.github.io/Netflix-India-Landing-page-UI-clone/)] 
+
 ## 📸 Preview
 
 ![Preview](./images/screenshot1.png)
