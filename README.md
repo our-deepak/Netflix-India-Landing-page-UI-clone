@@ -55,11 +55,6 @@ These limitations are intentional as the project’s focus was purely **static U
 
 ---
 
-## 📂 How to Use
-
-Just open the `index.html` file in your browser:
-
-```bash
-git clone https://github.com/our-deepak/Netflix-India-Landing-page-UI-clone.git
-cd netflix-india-ui-clone
-open index.html
+## 💻 How to Use
+1. Clone the repository
+2. Just open the `index.html` file in your browser
